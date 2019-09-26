@@ -1,0 +1,240 @@
+
+ERROR :  VACIADO DE LA INFORMACION DEL SISTEMA
+
+                 FECHA:  26/09/2019
+                  HORA:  10:07:43
+   NOMBRE DEL PROGRAMA:  PRINCIPAL.LOAD
+    LINEA DEL PROGRAMA:  5
+      MENSAJE DE ERROR:  Denegado d:\desarrollo\migdbftomysql\data\tmpnumtab.dbf al acceso al archivo.
+       CODIGO DE ERROR:        1705
+
+    MEMORIA DISPONIBLE:  655360
+         MEMORIA USADA:  0
+ LIMITE DE MEMORIA EMS:  0
+    MEMORIA DE USUARIO:  934792
+      CONFIG.SYS FILES:  255
+
+===================================================
+
+                   LISTA DE STATUS
+
+El procesador es Pentium
+Archivo alternativo: D:\DESARROLLO\MIGDBFTOMYSQL\TEMP\ERR36463.TXT
+Archivo de procedimiento: UTILIDADES.FXP
+Bibliotecas de clases: D:\DESARROLLO\MIGDBFTOMYSQL\VCX\_THERM.VCX ALIAS _THERM
+Ruta de búsqueda del archivo: 
+Directorio predeterminado: D:\DESARROLLO\MIGDBFTOMYSQL
+Dispositivo o archivo de impresión:  
+Área de trabajo      =    1
+Margen               =    0
+Decimales            =    2
+Ancho del campo memo =  256
+Escritura anticipada =   20
+Tamaño del bloque    =   64
+Reproceso            =       1
+Refresh              = 0, 5.000 SEGUNDOS
+Tiempo de espera DDE =    2000
+Seguridad DDE        = on
+
+Página de códigos: 1252
+Secuencia de ordenación: Machine
+Página de códigos del compilador: 1252
+Formato de fecha: YMD
+Tecla de método abreviado de macro = 
+Los parámetros de FDU se pasan por: VALUE
+On Error:        DO MANEJAERROR WITH PROGRAM(),LINENO(),ERROR(),MESSAGE()
+Opciones de combinación de texto
+          Delimitadores:  Izquierda = <<  Derecha = >>
+          Mostrar
+
+Alternate  - on     Brstatus   - off    Compatible - off    Device     - pant   Fields     - off    Intensity  - on     Near       - off    Safety     - off    Textmerge  - off 
+ANSI       - off    Carry      - off    Confirm    - on     Echo       - off    Fixed      - off    Lock       - off    NULL       - off    Space      - on     Title      - off 
+Aserciones - off    Century    - on     Console    - off    Escape     - off    Fullpath   - on     Logerrors  - on     Optimize   - on     Status Bar - on     Unique     - off 
+Bell       - on     Clear      - on     Cursor     - on     Exact      - on     Heading    - on     Mouse      - on     Print      - off    Sysmenus   - off 
+Blink      - on     Color      - on     Deleted    - on     Exclusive  - on     Help       - off    Multilocks - on     Readborder - off    Talk       - off 
+
+
+
+
+DLL declaradas:
+GetPrivateProfileString                             C:\Windows\System32\KERNEL32.DLL
+
+
+======================================================================
+
+                  LISTA DE MEMORIA
+
+GCPATH      Púb    C  "D:\DESARROLLO\MIGDBFTOMYSQL\"
+GCDIRTEMP   Púb    C  "D:\DESARROLLO\MIGDBFTOMYSQL\TEMP\"
+GCDIRREP    Púb    C  "D:\DESARROLLO\MIGDBFTOMYSQL\REP\"
+GNHANDLE    Púb    N  0           (         0.00000000)
+GCDIRDAT    Púb    C  "D:\DESARROLLO\MIGDBFTOMYSQL\DATA\"
+GCDRIVER    Púb    C  "MySQL ODBC 8.0 ANSI Driver"
+GCPORT      Púb    C  "3307"
+GCDATABASE  Púb    C  "test"
+GCSERVER    Púb    C  "localhost"
+GCUSER      Púb    C  "root"
+GCPWD       Púb    C  "1234"
+GCDIRTAB    Púb    N  0           (         0.00000000)
+GNNUMTAB    Púb    N  0           (         0.00000000)
+MENU        Priv   C  "AUTOMATIC"  main
+DROPDEAD    Priv   L  .F.  main
+TOBEDONE    Priv   C  ""  main
+NESTATUS    Priv   N  0           (         0.00000000)  main
+NERRORES    Priv   N  0           (         0.00000000)  main
+PROGRAMA    (ocu)  C  "PRINCIPAL.LOAD"  manejaerror
+LINEA       (ocu)  N  5           (         5.00000000)  manejaerror
+NUMERROR    (ocu)  N  1705        (      1705.00000000)  manejaerror
+MENSAJE     (ocu)  C  "Denegado d:\desarrollo\migdbftomysql\data\tmp
+                      numtab.dbf al acceso al archivo."  manejaerror
+PROCNOM     Priv   programa
+LINEA       Priv   linea
+ERRCOD      Priv   numerror
+ERRMESS     Priv   mensaje
+ARC         Priv   C  "D:\DESARROLLO\MIGDBFTOMYSQL\TEMP\ERR36463.TXT
+                      "  errortxt
+OLDPRINT    Priv   C  "OFF"  errortxt
+   28 variables definidas,    437 bytes usados
+16356 variables disponibles
+
+Imprimir variables de memoria del sistema
+
+_ALIGNMENT  Púb    C  "LEFT"
+_ASCIICOLS  Púb    N  80          (        80.00000000)
+_ASCIIROWS  Púb    N  63          (        63.00000000)
+_ASSIST     Púb    C  ""
+_BEAUTIFY   Púb    C  ""
+_BOX        Púb    L  .T.
+_BROWSER    Púb    C  ""
+_BUILDER    Púb    C  ""
+_CALCMEM    Púb    N  0.00        (         0.00000000)
+_CALCVALUE  Púb    N  0.00        (         0.00000000)
+_CODESENSE  Púb    C  ""
+_CONVERTER  Púb    C  ""
+_COVERAGE   Púb    C  ""
+_CUROBJ     Púb    N  -1          (        -1.00000000)
+_DBLCLICK   Púb    N  0.50        (         0.50000000)
+_DIARYDATE  Púb    D  26/09/2019
+_DOS        Púb    L  .F.
+_FOXCODE    Púb    C  ""
+_FOXDOC     Púb    C  ""
+_FOXGRAPH   Púb    C  ""
+_FOXREF     Púb    C  ""
+_FOXTASK    Púb    C  ""
+_GALLERY    Púb    C  ""
+_GENGRAPH   Púb    C  ""
+_GENHTML    Púb    C  ""
+_GENMENU    Púb    C  ""
+_GENPD      Púb    C  ""
+_GENSCRN    Púb    C  ""
+_GENXTAB    Púb    C  ""
+_GETEXPR    Púb    C  ""
+_INCLUDE    Púb    C  ""
+_INCSEEK    Púb    N  0.50        (         0.50000000)
+_INDENT     Púb    N  0           (         0.00000000)
+_LMARGIN    Púb    N  0           (         0.00000000)
+_MAC        Púb    L  .F.
+_MENUDESIGNERPúb    C  ""
+_MLINE      Púb    N  0           (         0.00000000)
+_OBJECTBROWSERPúb    C  ""
+_PADVANCE   Púb    C  "FORMFEED"
+_PAGENO     Púb    N  3           (         3.00000000)
+_PAGETOTAL  Púb    N  0           (         0.00000000)
+_PBPAGE     Púb    N  1           (         1.00000000)
+_PCOLNO     Púb    N  22          (        22.00000000)
+_PCOPIES    Púb    N  1           (         1.00000000)
+_PDRIVER    Púb    C  ""
+_PDSETUP    Púb    C  ""
+_PECODE     Púb    C  ""
+_PEJECT     Púb    C  "NONE"
+_PEPAGE     Púb    N  32767       (     32767.00000000)
+_PLENGTH    Púb    N  66          (        66.00000000)
+_PLINENO    Púb    N  18          (        18.00000000)
+_PLOFFSET   Púb    N  0           (         0.00000000)
+_PPITCH     Púb    C  "DEFAULT"
+_PQUALITY   Púb    L  .F.
+_PRETEXT    Púb    C  ""
+_PSCODE     Púb    C  ""
+_PSPACING   Púb    N  1           (         1.00000000)
+_PWAIT      Púb    L  .F.
+_REPORTBUILDERPúb    C  "C:\PROGRAM FILES (X86)\COMMON FILES\MICROSOFT
+                       SHARED\VFP\REPORTBUILDER.APP"
+_REPORTOUTPUTPúb    C  "C:\PROGRAM FILES (X86)\COMMON FILES\MICROSOFT
+                       SHARED\VFP\REPORTOUTPUT.APP"
+_REPORTPREVIEWPúb    C  "C:\PROGRAM FILES (X86)\COMMON FILES\MICROSOFT
+                       SHARED\VFP\REPORTPREVIEW.APP"
+_RMARGIN    Púb    N  80          (        80.00000000)
+_RUNACTIVEDOCPúb    C  ""
+_SAMPLES    Púb    C  "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPR
+                      O 9\SAMPLES\"
+_SCCTEXT    Púb    C  ""
+_SCREEN     Púb    O  FORM
+_SHELL      Púb    C  ""
+_SPELLCHK   Púb    C  ""
+_STARTUP    Púb    C  ""
+_TABS       Púb    C  ""
+_TALLY      Púb    N  0           (         0.00000000)
+_TASKLIST   Púb    C  ""
+_TASKPANE   Púb    C  ""
+_TEXT       Púb    N  -1          (        -1.00000000)
+_THROTTLE   Púb    N  0.00        (         0.00000000)
+_TOOLBOX    Púb    C  ""
+_TOOLTIPTIMEOUTPúb    N  0           (         0.00000000)
+_TRANSPORT  Púb    C  ""
+_TRIGGERLEVELPúb    N  0           (         0.00000000)
+_UNIX       Púb    L  .F.
+_VFP        Púb    O  MICROSOFT VISUAL FOXPRO APPLICATION 9.0
+_WINDOWS    Púb    L  .T.
+_WIZARD     Púb    C  ""
+_WRAP       Púb    L  .F.
+
+   90 variables del sistema definidas
+
+Definiciones de menús y títulos
+
+    0 menús definidos
+
+Definiciones de menús contextuales
+
+    0 menús contextuales definidos
+
+Definiciones de ventanas
+
+Nombre         Desde           A               Tamaño
+PRINCIPAL      18.667,81.250   66.083,156.625  368 bytes
+
+    1 ventana definida
+
+======================================================================
+
+                   JERARQUÍA DE LLAMADAS
+
+1 -- D:\DESARROLLO\MIGDBFTOMYSQL\MIGDBFTOMYSQL.EXE
+
+2 -- PROCEDURE PRINCIPAL.LOAD D:\DESARROLLO\MIGDBFTOMYSQL\FORMS\PRINCIPAL.SCT
+
+3 -- ON... 
+
+4 -- PROCEDURE MANEJAERROR UTILIDADES.FXP
+
+5 -- PROCEDURE ERRORTXT UTILIDADES.FXP
+
+======================================================================
+
+                  LISTA DE OBJETOS
+
+
+======================================================================
+
+               STATUS DE LAS AREAS DE TRABAJO
+
+AREA ACTUAL 
+
+AREA TRAB    NOMBRE DE DBF     NUMERO REGIST      INDICE MAEST
+---------    ------------      -------------      ----------
+
+======================================================================
+
+              DETALLES DEL AREA ABIERTA
+
+----------------------------------------------------
